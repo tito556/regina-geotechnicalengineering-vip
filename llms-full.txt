@@ -1,0 +1,48 @@
+# Geotechnicalengineering — Regina
+
+> Geotechnical engineering services in Regina, Canada.
+
+## Services
+- [Anchors](https://regina.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://regina.geotechnicalengineering.vip/atterberg-limits/)
+- [Cbr Road](https://regina.geotechnicalengineering.vip/cbr-road/)
+- [Cpt Test](https://regina.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://regina.geotechnicalengineering.vip/deep-excavations/)
+- [Excavations](https://regina.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://regina.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://regina.geotechnicalengineering.vip/footings/)
+- [Foundations](https://regina.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://regina.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://regina.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://regina.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://regina.geotechnicalengineering.vip/grouting/)
+- [Investigation](https://regina.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://regina.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://regina.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://regina.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://regina.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://regina.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://regina.geotechnicalengineering.vip/piles/)
+- [Plate Load Test](https://regina.geotechnicalengineering.vip/plate-load-test/)
+- [Resistivity](https://regina.geotechnicalengineering.vip/resistivity/)
+- [Rigid Pavement](https://regina.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://regina.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://regina.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://regina.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://regina.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://regina.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://regina.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://regina.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://regina.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://regina.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://regina.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://regina.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://regina.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://regina.geotechnicalengineering.vip/triaxial/)
+
+## Contact
+- Website: https://regina.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Regina, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
